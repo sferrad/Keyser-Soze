@@ -76,7 +76,7 @@ try:
     # Start keyboard listener in main thread
     with keyboard.Listener(on_press=on_key_event, on_release=on_release) as keyboard_listener:
         keyboard_listener.join()
-        
+
 except Exception as e:
     print(f"An error occurred: {e}")
 finally:
