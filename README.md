@@ -56,7 +56,7 @@ pip install -r requirements.txt
 ```
 - Run the script
 ```bash
-python keylogger.py
+python3 keyser-soze.py
 ```
 - All logs are saved in:
 ```
