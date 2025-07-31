@@ -67,7 +67,7 @@ key-soze.txt
 To generate a .exe file:
 ```bash
 pip install pyinstaller
-pyinstaller --onefile --noconsole keylogger.py
+pyinstaller --onefile --noconsole keyser-soze.py
 ```
 The resulting .exe will be located in the dist/ folder.<br>
 ## ❌ Do NOT Use For
