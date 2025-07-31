@@ -11,9 +11,9 @@
 This project is a simple Python-based keylogger, created as part of a security learning experiment.
 It demonstrates how to use the pynput library to log:
 
-  Keyboard input
+  - Keyboard input
 
-  Mouse clicks <br>
+-  Mouse clicks <br>
 
 The program writes the captured data to a local file for analysis.<br>
 ## ✅ Features
